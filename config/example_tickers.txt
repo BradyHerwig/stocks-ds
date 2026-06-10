@@ -1,0 +1,22 @@
+# Example ticker universe (one per line)
+# Replace with your actual list (S&P 500 constituents, custom selection, etc.)
+AAPL
+MSFT
+GOOGL
+AMZN
+NVDA
+META
+TSLA
+BRK-B
+JPM
+V
+MA
+XOM
+JNJ
+WMT
+PG
+CVX
+LLY
+HD
+BAC
+KO
