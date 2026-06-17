@@ -119,7 +119,7 @@ stocks/
    ```
 
 3. **Explore data**
-   Open `notebooks/00_data_acquisition.ipynb` (or run the example script).
+   Open `notebooks/00_data_acquisition.ipynb`.
 
 4. **Use the package**
    ```python
